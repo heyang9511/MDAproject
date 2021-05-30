@@ -31,7 +31,7 @@ In case the user finds it difficult to download any of the above, there will be 
 
 - Start by cloning the repo using
 
-`git clone https://github.com/heyang9511/LDA_topic_modeling`
+`git clone https://github.com/heyang9511/MDAproject`
 
 - Go into the `notebooks/` directory
 
