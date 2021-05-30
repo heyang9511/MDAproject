@@ -33,7 +33,7 @@ In case the user finds it difficult to download any of the above, there will be 
 
 `git clone https://github.com/heyang9511/MDAproject`
 
-- Go into the `notebooks/` directory
+- Go into the `notebook/` directory
 
 - Install `virtualenv` using
 
