@@ -4,7 +4,7 @@ Group: New-Zealand
 
 Topic: Politicians and Climate Change
 
-Members: Kendall	Brown, Balazs	Fazekas, Yang	He, Yuanyuan	Li, Chiel	Mues
+Members: Yang	He, Kendall	Brown, Balazs	Fazekas, Yuanyuan	Li, Chiel	Mues
 
 ### Main topic: Politicians and climate 
 Original data link: [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y)
